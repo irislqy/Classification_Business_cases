@@ -1,6 +1,6 @@
 # Apply Classification into Business
 
-This rep includes classification applications in SaaS companies to understand customer churn and in healthcare industries to proactively identify diabetes and heartdisease. 
+This rep includes classification applications in SaaS companies to understand customer churn and in healthcare industries to proactively identify diabetes and heart disease. 
 
 Customer Churn: https://github.com/irislqy/Classification_Business_cases/blob/master/Telco_Customer_Churn.ipynb
 Heart Disease:  https://github.com/irislqy/Classification_Business_cases/blob/master/Heart_Disease.ipynb
