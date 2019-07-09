@@ -51,3 +51,5 @@ In the industry, predictive analysis is valuable in customer segmentation and en
     <br> 5.2 Business Recommendations 
   
 Part II: 
+  6. Lifetime Value
+  7. Clustering - Customer Profile 
