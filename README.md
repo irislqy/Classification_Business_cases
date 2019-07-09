@@ -27,19 +27,27 @@ In the industry, predictive analysis is valuable in customer segmentation and en
   
   Table of Content
   
+  Part I: https://github.com/irislqy/Classification_Business_cases/blob/master/Telco_Customer_Churn.ipynb
   1. Ingest
   2. EDA
     <br>2.1 Bar Chart 
     <br>2.2 Plotly: Histogram
     <br>2.3 KDE
     <br>2.4 Radar Chart via Plotly
-  3. Predictive Modeling
-    <br>3.1 Feature Engineering and Packages Loading
-    <br>3.2 Logistic Regression, SVM, Random Forest
-    <br>3.3 Ensemble Model Selection: XGB, GradientBoosting and AdaBoosting
-    <br>3.4 Voting Classifer
-    <br>3.5 Artificial Neural Network: keras
-  4. Conclusion
-    <br> 4.1 Modeling 
-    <br> 4.2 Business Recommendations 
-
+  3. Hypothesis Testing
+    <br>3.1 Multiple Lines
+    <br>3.2 Internet Services
+    <br>3.3 Payment Methods
+    <br>3.4 Contract Type
+    <br>3.5 Monthly Charges
+  4. Predictive Modeling
+    <br>4.1 Feature Engineering and Packages Loading
+    <br>4.2 Logistic Regression, SVM, Random Forest
+    <br>4.3 Ensemble Model Selection: XGB, GradientBoosting and AdaBoosting
+    <br>4.4 Voting Classifer
+    <br>4.5 Artificial Neural Network: keras
+  5. Part I: Conclusion
+    <br> 5.1 Modeling 
+    <br> 5.2 Business Recommendations 
+  
+Part II: 
