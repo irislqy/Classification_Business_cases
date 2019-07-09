@@ -2,7 +2,7 @@
 
 This rep includes classification applications in SaaS companies to understand customer churn and in healthcare industries to proactively identify diabetes and heart disease. 
 
-Customer Churn: https://github.com/irislqy/Classification_Business_cases/blob/master/Telco_Customer_Churn.ipynb
+Customer Churn: https://github.com/irislqy/Classification_Business_cases/blob/master/Telco_Customer_Churn_1.ipynb
 Heart Disease:  https://github.com/irislqy/Classification_Business_cases/blob/master/Heart_Disease.ipynb
 <br>Diabetes:       https://github.com/irislqy/Classification_Business_cases/blob/master/Diabetes.ipynb
 
@@ -27,7 +27,7 @@ In the industry, predictive analysis is valuable in customer segmentation and en
   
   Table of Content
   
-  Part I: https://github.com/irislqy/Classification_Business_cases/blob/master/Telco_Customer_Churn.ipynb
+  Part I: https://github.com/irislqy/Classification_Business_cases/blob/master/Telco_Customer_Churn_1.ipynb
   1. Ingest
   2. EDA
     <br>2.1 Bar Chart 
@@ -51,5 +51,6 @@ In the industry, predictive analysis is valuable in customer segmentation and en
     <br> 5.2 Business Recommendations 
   
 Part II: 
-  6. Lifetime Value
-  7. Clustering - Customer Profile 
+  6. Clustering - Customer Profile 
+  7. Customer Lifetime Value
+  
